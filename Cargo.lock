@@ -3,5 +3,13 @@
 version = 4
 
 [[package]]
+name = "paging"
+version = "0.1.0"
+source = "git+https://github.com/joe3925/paging?rev=c8a6c2856981ca7079a7a238419a3d25bb20764c#c8a6c2856981ca7079a7a238419a3d25bb20764c"
+
+[[package]]
 name = "x86_64-paging"
 version = "0.1.0"
+dependencies = [
+ "paging",
+]
