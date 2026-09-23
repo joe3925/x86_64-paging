@@ -4,4 +4,4 @@ version = "0.1.0"
 edition = "2024"
 
 [dependencies]
-paging = { git = "https://github.com/joe3925/paging", rev = "c8a6c2856981ca7079a7a238419a3d25bb20764c" }
+paging = { git = "https://github.com/joe3925/paging" }
