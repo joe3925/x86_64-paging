@@ -2,6 +2,7 @@
 name = "x86_64-paging"
 version = "0.1.0"
 edition = "2024"
+license = "Apache-2.0"
 
 [dependencies]
 paging = { git = "https://github.com/joe3925/paging" }
